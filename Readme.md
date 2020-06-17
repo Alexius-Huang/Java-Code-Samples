@@ -7,6 +7,7 @@ Code samples and notes taken from Udemy course [Java Programming Masterclass for
 - Hello World
 - Primitive
 - Operators
+- Keywords and Expressions
 
 ## Memo
 - 2020.06.16
@@ -15,3 +16,4 @@ Code samples and notes taken from Udemy course [Java Programming Masterclass for
 - 2020.06.17
   - Completed introduction to operators
   - Completed Udemy course section: `First Steps`
+  - Completed keywords and expressions part
