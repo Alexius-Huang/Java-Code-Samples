@@ -6,8 +6,12 @@ Code samples and notes taken from Udemy course [Java Programming Masterclass for
 
 - Hello World
 - Primitive
+- Operators
 
 ## Memo
 - 2020.06.16
   - Completed `HelloWorld` sections
   - Completed introduction to primitive types
+- 2020.06.17
+  - Completed introduction to operators
+  - Completed Udemy course section: `First Steps`
