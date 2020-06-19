@@ -9,6 +9,7 @@ Code samples and notes taken from Udemy course [Java Programming Masterclass for
 - Operators
 - Keywords and Expressions
 - Methods
+- Control Flow
 
 ## Memo
 - 2020.06.16
@@ -21,3 +22,5 @@ Code samples and notes taken from Udemy course [Java Programming Masterclass for
 - 2020.06.18
   - Completed method declaration, invocation and overloading
   - Completed method code challenges
+- 2020.06.19
+  - Completed Control Flows section including switch statement and looping statements
