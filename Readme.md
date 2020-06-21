@@ -10,6 +10,7 @@ Code samples and notes taken from Udemy course [Java Programming Masterclass for
 - Keywords and Expressions
 - Methods
 - Control Flow
+- Parsing Values from String
 
 ## Memo
 - 2020.06.16
@@ -24,3 +25,6 @@ Code samples and notes taken from Udemy course [Java Programming Masterclass for
   - Completed method code challenges
 - 2020.06.19
   - Completed Control Flows section including switch statement and looping statements
+- 2020.06.21
+  - Completed value parsed from String type
+  - Completed user input parsing
