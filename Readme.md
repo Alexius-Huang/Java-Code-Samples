@@ -11,6 +11,7 @@ Code samples and notes taken from Udemy course [Java Programming Masterclass for
 - Methods
 - Control Flow
 - Parsing Values from String
+- Classes
 
 ## Memo
 - 2020.06.16
@@ -28,3 +29,5 @@ Code samples and notes taken from Udemy course [Java Programming Masterclass for
 - 2020.06.21
   - Completed value parsed from String type
   - Completed user input parsing
+- 2020.06.22
+  - Completed class basics: including instance initialization, member variables, methods, constructor functions
