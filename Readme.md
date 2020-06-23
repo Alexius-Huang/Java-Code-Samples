@@ -13,6 +13,7 @@ Code samples and notes taken from Udemy course [Java Programming Masterclass for
 - Parsing Values from String
 - Classes
 - Inheritance
+- Array
 
 ## Memo
 - 2020.06.16
@@ -33,3 +34,6 @@ Code samples and notes taken from Udemy course [Java Programming Masterclass for
 - 2020.06.22
   - Completed class basics: including instance initialization, member variables, methods, constructor functions
   - Completed class inheritance
+- 2020.06.23
+  - Completed class basic concept including composition, encapsulation and polymorphism
+  - Completed array basics
